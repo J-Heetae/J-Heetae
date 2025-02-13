@@ -1,11 +1,20 @@
-JEONG TAEHEE  
-Backend Developer
-<br><br>
+# JEONG TAEHEE  
+🚀 **Backend Developer** 
 
-#### Skills
-**Java**, **Spring Boot**, JPA, Kotlin
-<br><br>
+<br>
 
-#### Experience
-TmaxBI 23.12 ~ 24.12  
-SSAFY 23.01 ~ 23.11
+## 🛠 Skills  
+- **Languages:** Java, Kotlin  
+- **Frameworks:** Spring Boot, JPA  
+- **Databases:** MySQL
+- **Tools & DevOps:** Docker, Git, CI/CD  
+
+<br>
+
+## 📂 Experience  
+- **🛠 TmaxBI** – Backend Developer (Java)  
+  📅 2023.12 ~ 2024.12
+
+- **🎓 SSAFY 9기 수료**  
+  📅 2023.01 ~ 2023.11  
+  🔹 Intensive training in full-stack development with Java & Spring  
