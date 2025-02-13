@@ -1,5 +1,4 @@
-### JEONG TAEHEE  
-### **Backend Developer**  
+### JEONG TAEHEE  - **Backend Developer**  
 
 <br>
 
